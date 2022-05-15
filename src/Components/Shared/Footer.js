@@ -9,6 +9,8 @@ import {
   Google,
   Instagram,
 } from "@material-ui/icons";
+import "../../styles.css";
+
 function Footer() {
   return (
     <div class="bg-dark text-center text-white">

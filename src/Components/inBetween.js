@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import Circle from "./circle.png";
-import Cross from "./cross.png";
-import Header from "./header";
-import Footer from "./Footer";
+// import Circle from "./circle.png";
+// import Cross from "./cross.png";
+import Header from "./Shared/header.js";
+import Footer from "./Shared/Footer.js";
 import "./styles.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
